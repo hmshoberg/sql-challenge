@@ -8,3 +8,4 @@ Inspect the CSV files, and then sketch an Entity Relationship Diagram of the tab
 DATA ENGINEERING
 
 Use the provided information to create a table schema for each of the six CSV files.
+![image](https://github.com/hmshoberg/sql-challenge/assets/145800386/03cdc292-dddb-426c-9491-3d7ae3a7136e)
