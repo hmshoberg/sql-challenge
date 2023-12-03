@@ -3,12 +3,13 @@
 DATA MODELING
 
 Inspect the CSV files, and then sketch an Entity Relationship Diagram of the tables
-![image](https://github.com/hmshoberg/sql-challenge/assets/145800386/111115cd-0172-40d6-b138-e925bc33a1aa)
+![image](https://github.com/hmshoberg/sql-challenge/assets/145800386/a3d40b24-3048-44af-9f76-26b174e55909)
 
 DATA ENGINEERING
 
 Use the provided information to create a table schema for each of the six CSV files.
-![image](https://github.com/hmshoberg/sql-challenge/assets/145800386/7ed2ba30-a66c-4243-9f5d-71ddedb2a4b7)
+![image](https://github.com/hmshoberg/sql-challenge/assets/145800386/ca522f36-e2e7-4990-aa3e-d3d79cc60a6a)
+
 
 Data Analysis
 
