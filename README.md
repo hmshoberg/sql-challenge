@@ -11,7 +11,7 @@ Use the provided information to create a table schema for each of the six CSV fi
 ![image](https://github.com/hmshoberg/sql-challenge/assets/145800386/ca522f36-e2e7-4990-aa3e-d3d79cc60a6a)
 
 
-Data Analysis
+DATA ANALYSIS
 
 List the employee number, last name, first name, sex, and salary of each employee.
 
@@ -29,7 +29,8 @@ List each employee in the Sales and Development departments, including their emp
 
 List the frequency counts, in descending order, of all the employee last names (that is, how many employees share each last name).
 
-Sources
+
+SOURCES
 
 https://stackoverflow.com/questions/8595695/what-is-difference-between-foreign-key-and-reference-key
 
